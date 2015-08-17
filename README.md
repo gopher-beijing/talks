@@ -1,2 +1,2 @@
 # talks
-All of the slide on Gopher Beijing Meetings.
+All of the slides on Gopher Beijing Meetings.
